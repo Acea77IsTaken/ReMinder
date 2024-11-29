@@ -1,0 +1,143 @@
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\NoSeElNombrejaja.exe.config
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\NoSeElNombrejaja.exe
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\NoSeElNombrejaja.pdb
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.csproj.AssemblyReference.cache
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\MainWindow.g.cs
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\App.g.cs
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja_MarkupCompile.cache
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja_MarkupCompile.lref
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\MainWindow.baml
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.g.resources
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.Properties.Resources.resources
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.csproj.GenerateResource.cache
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.exe
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.pdb
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\Menu inicioUserControl.g.cs
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\Menu inicioUserControl.baml
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\InicioUserControl.g.cs
+C:\Users\santi\source\repos\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\InicioUserControl.baml
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\NoSeElNombrejaja.exe.config
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\NoSeElNombrejaja.exe
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\NoSeElNombrejaja.pdb
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.csproj.AssemblyReference.cache
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\InicioUserControl.g.cs
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\MainWindow.g.cs
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\Menu inicioUserControl.g.cs
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\App.g.cs
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja_MarkupCompile.cache
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja_MarkupCompile.lref
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\InicioUserControl.baml
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\MainWindow.baml
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\Menu inicioUserControl.baml
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.g.resources
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.Properties.Resources.resources
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.csproj.GenerateResource.cache
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.csproj.CoreCompileInputs.cache
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.exe
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.pdb
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\AdminInicioUserControl1.g.cs
+C:\Users\T003-24\Desktop\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\AdminInicioUserControl1.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\NoSeElNombrejaja.exe.config
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\NoSeElNombrejaja.exe
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\NoSeElNombrejaja.pdb
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\AdminInicioUserControl1.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\InicioUserControl.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\MainWindow.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\Menu inicioUserControl.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\UserControl1.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\App.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja_MarkupCompile.cache
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja_MarkupCompile.lref
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\AdminInicioUserControl1.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\InicioUserControl.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\MainWindow.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\Menu inicioUserControl.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\UserControl1.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.g.resources
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.exe
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNombrejaja.pdb
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\TablonAnunciosAdmin.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\TablonAnunciosAdmin.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\VentanaCrearAnuncio.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\VentanaCrearAnuncio.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Azure.Core.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Azure.Identity.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.SqlServer.Server.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Buffers.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.ClientModel.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Data.SqlClient.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Memory.Data.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Memory.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Security.AccessControl.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Security.Permissions.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Text.Json.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.ValueTuple.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Azure.Core.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Azure.Identity.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.SqlServer.Server.pdb
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\Microsoft.SqlServer.Server.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Buffers.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.ClientModel.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Data.SqlClient.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Memory.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Memory.Data.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Security.AccessControl.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Security.Permissions.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Text.Json.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\System.ValueTuple.xml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNo.7E94135B.Up2Date

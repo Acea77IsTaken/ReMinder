@@ -1,0 +1,91 @@
+﻿<UserControl x:Class="NoSeElNombrejaja.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:NoSeElNombrejaja"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock FontSize="30" HorizontalAlignment="Center" Grid.Row="0"
+                   Foreground="AntiqueWhite" FontFamily="Cambria" FontWeight="Bold"
+                   Margin="10">
+            Bienvenido Usuario!
+        </TextBlock>
+        <StackPanel Grid.Row="1">
+            <Border Background="#FF36281F"
+        Height="300" Margin="20,5,20,0">
+                <StackPanel>
+                    <TextBlock FontSize="30"
+                   FontFamily="Cambria" Foreground="AntiqueWhite" FontWeight="Bold"
+                   Margin="6,3" HorizontalAlignment="Center">
+                        Herramientas
+                    </TextBlock>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Border Grid.Column="0" Background="#FF231F20" Height="200" Width="170"
+                                Margin="15,15,15,0" MouseLeftButtonUp="ClickTareas" x:Name="BtnTareas">
+                            <Image Source="/Tareas.png">
+                                
+                            </Image>
+                        </Border>
+                        <Border Grid.Row="1" Grid.Column="0" Height="2" Background="#FFE2A02B" Width="170">
+
+                        </Border>
+                        <Border Grid.Row="2" Grid.Column="0" Height="35" Background="#FF231F20" Width="170">
+                            <Label Foreground="#FFE2A02B" FontWeight="SemiBold" HorizontalAlignment="Center"
+                                   FontFamily="cambria" FontSize="20">
+                                Tareas
+                            </Label>
+                        </Border>
+                        <Border Grid.Column="1" Background="#FF231F20" Height="200" Width="170"
+                                Margin="15,15,15,0"  Name="BtnResumen" MouseLeftButtonUp="ClickResumen">
+                            <Image Source="/Resumen.png" Margin="10">
+
+                            </Image>
+                        </Border>
+                        <Border Grid.Row="1" Grid.Column="1" Height="2" Background="#FFE2A02B" Width="170">
+
+                        </Border>
+                        <Border Grid.Row="2" Grid.Column="1" Height="35" Background="#FF231F20" Width="170">
+                            <Label Foreground="#FFE2A02B" FontWeight="SemiBold" HorizontalAlignment="Center"
+                                   FontFamily="cambria" FontSize="20">
+                                Resumen
+                            </Label>
+                        </Border>
+                        <Border Grid.Column="2" Background="#FF231F20" Height="200" Width="170"
+                                Margin="15,15,15,0"  Name="BtnAnuncios" MouseLeftButtonUp="ClickAnuncios">
+                            <Image Source="/Anuncios.png" Margin="10">
+
+                            </Image>
+                        </Border>
+                        <Border Grid.Row="1" Grid.Column="2" Height="2" Background="#FFE2A02B" Width="170">
+
+                        </Border>
+                        <Border Grid.Row="2" Grid.Column="2" Height="35" Background="#FF231F20" Width="170">
+                            <Label Foreground="#FFE2A02B" FontWeight="SemiBold" HorizontalAlignment="Center"
+                            FontFamily="cambria" FontSize="20">
+                                Anuncios
+                            </Label>
+                        </Border>
+                    </Grid>
+                </StackPanel>
+            </Border>
+            <Border Background="#FF231F20" 
+        Height="15" Margin="20,0,20,0"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
