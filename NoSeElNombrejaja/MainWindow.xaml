@@ -91,6 +91,7 @@
 
                 </Label>
             </Border>
+            <Image Grid.Column="2" Source="/ReMinder logo.png" Height="50" MouseLeftButtonUp="BtnIcono"></Image>
         </Grid>
         <ContentControl Grid.Row="2"
                         Name="AreaContenido">

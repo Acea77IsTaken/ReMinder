@@ -53,7 +53,7 @@ namespace NoSeElNombrejaja
             }
         }
 
-        public void CambioVentanaAnuncios(object sender, EventArgs e)
+        public void CambioVentanaAnuncios()
         {
             if (Globals.Logueado && !Globals.Administrador)
             {
@@ -65,9 +65,14 @@ namespace NoSeElNombrejaja
             }
         }
         
-        public void CambioVentanaResumen(object sender, EventArgs e)
+        public void CambioVentanaResumen()
         {
             
+        }
+
+        private void BtnIcono(object sender, MouseButtonEventArgs e)
+        {
+            AreaContenido.Content = new UserControl1();
         }
     }
 }

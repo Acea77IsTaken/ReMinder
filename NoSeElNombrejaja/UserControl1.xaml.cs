@@ -20,8 +20,8 @@ namespace NoSeElNombrejaja
     /// </summary>
     public partial class UserControl1 : UserControl
     {
-        public event EventHandler CambioVentanaAnuncio;
-        public event EventHandler CambioVentanaResumen;
+        public event Action CambioVentanaAnuncio;
+        public event Action CambioVentanaResumen;
         public UserControl1()
         {
             InitializeComponent();
@@ -34,12 +34,12 @@ namespace NoSeElNombrejaja
 
         private void ClickAnuncios(object sender, MouseButtonEventArgs e)
         {
-            CambioVentanaAnuncio?.Invoke(this, e);
+            CambioVentanaAnuncio?.Invoke();
         }
 
         private void ClickResumen(object sender, MouseButtonEventArgs e)
         {
-            CambioVentanaResumen?.Invoke(this, e);
+            CambioVentanaResumen?.Invoke();
         }
     }
 }

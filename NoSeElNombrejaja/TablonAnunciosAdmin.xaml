@@ -6,13 +6,14 @@
              xmlns:local="clr-namespace:NoSeElNombrejaja"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
+    <Grid x:Name="GranGrid">
         <Grid.RowDefinitions>
             <RowDefinition/>
             <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
-        <ScrollViewer HorizontalScrollBarVisibility="Auto">
+        <ScrollViewer HorizontalScrollBarVisibility="Auto"> <!--pa poder scrollear cosas asi todo bonito-->
             <StackPanel x:Name="ListaAnunciosAdmin">
+                <!--de aqui para abajo es todo los estilo para crear un solo cuadro de estos-->
                 <Border Background="#FF36281F"
                     Height="150" Margin="20,20,20,0">
                     <StackPanel>
@@ -26,18 +27,33 @@
                                Foreground="AntiqueWhite">
 
                         </TextBlock>
+                        
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                            <Border HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FF36281F" BorderBrush="#FF231F20" 
+                                    BorderThickness="3" Margin="15" Name="Guardar">
+                                <Label FontFamily="cambria" FontSize="15" FontWeight="Bold" Foreground="AntiqueWhite" >
+                                    Guardar
+                                </Label>
+                            </Border>
+                        </StackPanel>
+                        
                     </StackPanel>
                 </Border>
                 <Border Background="#FF231F20" 
                         Height="15" Margin="20,0,20,0"/>
             </StackPanel>
+            <!--aqui termina la creacion del cuadro de anuncios, divertido no?-->
         </ScrollViewer>
-        <Border Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FF36281F" BorderBrush="#FF231F20" 
-                BorderThickness="3" Margin="15" Name="BtnCrearAnuncio" MouseLeftButtonUp="ClickCrearAnuncio">
-            <Label FontFamily="cambria" FontSize="30" FontWeight="Bold" Foreground="AntiqueWhite" >
-                Crear anuncio
-            </Label>
-        </Border>
+        <!--este es el menu de abajo para los admins-->
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+            <Border Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FF36281F" BorderBrush="#FF231F20" 
+                    BorderThickness="3" Margin="15" Name="BtnCrearAnuncio" MouseLeftButtonUp="ClickCrearAnuncio">
+                <Label FontFamily="cambria" FontSize="30" FontWeight="Bold" Foreground="AntiqueWhite" >
+                    Crear anuncio
+                </Label>
+            </Border>
+            <!--añadir funcion de busqueda aqui-->
+        </StackPanel>
     </Grid>
 </UserControl>
 

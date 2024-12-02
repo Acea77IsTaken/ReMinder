@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.IO;
 
 namespace NoSeElNombrejaja
 {
@@ -36,6 +37,13 @@ namespace NoSeElNombrejaja
         {
             CrearAnuncio(TbxTitulo.Text, TbxCuerpo.Text);
             actualizar?.Invoke();
+
+            StreamWriter sw = new StreamWriter("AnunciosGuardados.txt", true);
+            sw.WriteLine(TbxTitulo.Text);
+            sw.WriteLine(TbxCuerpo.Text);
+            sw.WriteLine();
+            sw.Close();
+
             this.Close();
 
            
