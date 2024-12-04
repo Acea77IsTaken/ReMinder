@@ -1,0 +1,60 @@
+﻿<Window x:Class="NoSeElNombrejaja.VentanaCrearTarea"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NoSeElNombrejaja"
+        mc:Ignorable="d"
+        Title="VentanaCrearTarea" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/site_bg.png" Stretch="UniformToFill" TileMode="Tile"/>
+        </Grid.Background>
+        <StackPanel Background="#FF36281F" Margin="25">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <StackPanel>
+                    <TextBox Margin="10" x:Name="TbxTitulo" HorizontalAlignment="Left"
+                               FontFamily="Cambria" FontSize="40" Foreground="#FFE2A02B"
+                               FontWeight="DemiBold" Grid.Column="0" Background="{x:Null}" >
+                        Titulo De La Tarea
+                    </TextBox>
+                    <TextBlock Margin="20,0,20,5" FontSize="15" FontWeight="DemiBold" Foreground="#FFE2A02B" x:Name="TbAdmin" Loaded="CargarVentanaCrear">
+                        Por Admin
+                    </TextBlock>
+                </StackPanel>
+                <TextBlock Grid.Column="1" x:Name="FechaEntrega" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="20,0,20,0"
+                               FontSize="15" Foreground="AntiqueWhite">
+                    Fecha De Entrega:
+                </TextBlock>
+            </Grid>
+            <Border Background="#FFE2A02B" Height="1"/>
+            <TextBox x:Name="TbxDetalles" Margin="15,10,15,10" Height="150" FontSize="15" Foreground="AntiqueWhite" Background="{x:Null}">
+                Detalles de la tarea prubea 123 cutrocientos veinticinco como meter intro en wpf
+                se puede
+            </TextBox>
+            <StackPanel Orientation="Horizontal">
+                <Label FontSize="15" Foreground="AntiqueWhite" Margin="5,0">
+                    Escriba el Nombre y apellido del Trabajador responsable
+                </Label>
+                <TextBox Width="150" Height="20" Margin="10,0" Name="TbxNombre">
+
+                </TextBox>
+                <TextBox Width="150" Height="20" Margin="10,0" Name="TbxApellido">
+
+                </TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Border HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FF231F20" 
+                        Margin="15" Name="Asignar" MouseLeftButtonUp="BtnAsignarClick">
+                    <Label FontFamily="cambria" FontSize="25" FontWeight="Bold" Foreground="AntiqueWhite" Width="200" HorizontalContentAlignment="Center">
+                        Asignar
+                    </Label>
+                </Border>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

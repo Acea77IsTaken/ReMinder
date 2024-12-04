@@ -10,5 +10,6 @@ namespace NoSeElNombrejaja
     {
         public static bool Logueado = false; 
         public static bool Administrador = false;
+        public static int Id;
     }
 }

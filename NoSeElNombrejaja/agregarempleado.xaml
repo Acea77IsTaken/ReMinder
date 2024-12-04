@@ -1,0 +1,71 @@
+﻿<Window x:Class="NoSeElNombrejaja.agregarempleado"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NoSeElNombrejaja"
+        mc:Ignorable="d"
+        Title="agregarempleado" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/site_bg.png" TileMode="Tile" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Nombre:" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="5"
+               FontFamily="cambria" FontWeight="DemiBold" Foreground="AntiqueWhite" FontSize="20"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Name="txtNombre" Margin="5" Background="#FF231F20" 
+                 FontFamily="cambria" Foreground="AntiqueWhite" FontSize="20"/>
+
+        <Label Grid.Row="1" Grid.Column="0" Content="Apellido Paterno:" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="5"
+               FontFamily="cambria" FontWeight="DemiBold" Foreground="AntiqueWhite" FontSize="20"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Name="txtApellidoPaterno" Margin="5" Background="#FF231F20" 
+                 FontFamily="cambria" Foreground="AntiqueWhite" FontSize="20"/>
+
+        <Label Grid.Row="2" Grid.Column="0" Content="Apellido Materno:" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="5"
+               FontFamily="cambria" FontWeight="DemiBold" Foreground="AntiqueWhite" FontSize="20"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Name="txtApellidoMaterno" Margin="5" Background="#FF231F20" 
+                 FontFamily="cambria" Foreground="AntiqueWhite" FontSize="20"/>
+
+        <Label Grid.Row="3" Grid.Column="0" Content="Usuario:" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="5"
+               FontFamily="cambria" FontWeight="DemiBold" Foreground="AntiqueWhite" FontSize="20"/>
+        <TextBox Grid.Row="3" Grid.Column="1" Name="txtUsuario" Margin="5" Background="#FF231F20" 
+                 FontFamily="cambria" Foreground="AntiqueWhite" FontSize="20"/>
+
+        <Label Grid.Row="4" Grid.Column="0" Content="Clave:" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="5"
+               FontFamily="cambria" FontWeight="DemiBold" Foreground="AntiqueWhite" FontSize="20"/>
+        <TextBox Grid.Row="4" Grid.Column="1" Name="txtClave" Margin="5" Background="#FF231F20" 
+                 FontFamily="cambria" Foreground="AntiqueWhite" FontSize="20"/>
+
+        <Label Grid.Row="5" Grid.Column="0" Content="Salario:" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="5"
+               FontFamily="cambria" FontWeight="DemiBold" Foreground="AntiqueWhite" FontSize="20"/>
+        <TextBox Grid.Row="5" Grid.Column="1" Name="txtSalario" Margin="5" Background="#FF231F20" 
+                 FontFamily="cambria" Foreground="AntiqueWhite" FontSize="20"/>
+
+        <Label Grid.Row="6" Grid.Column="0" Content="Teléfono:" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="5"
+               FontFamily="cambria" FontWeight="DemiBold" Foreground="AntiqueWhite" FontSize="20"/>
+        <TextBox Grid.Row="6" Grid.Column="1" Name="txtTelefono" Margin="5" Background="#FF231F20"
+                 FontFamily="cambria" Foreground="AntiqueWhite" FontSize="20"/>
+
+        <Border Grid.Row="7" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FF36281F" BorderBrush="#FF231F20" 
+                    BorderThickness="3" Margin="0,40,0,0" Name="BtnagregarUsuario" MouseLeftButtonUp="BtnAgregarClick">
+            <Label FontFamily="cambria" FontSize="30" FontWeight="Bold" Foreground="AntiqueWhite" >
+                añadir Usuario
+            </Label>
+        </Border>
+    </Grid>
+</Window>
+
+

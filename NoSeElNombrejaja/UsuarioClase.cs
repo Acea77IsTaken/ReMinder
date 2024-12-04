@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NoSeElNombrejaja
 {
-    internal class UsuarioClase
+    public class UsuarioClase
     {
         public int id;
         public string name;

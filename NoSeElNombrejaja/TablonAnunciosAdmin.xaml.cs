@@ -49,10 +49,6 @@ namespace NoSeElNombrejaja
                 TextBlock TituloAnuncio = new TextBlock();
                 TextBlock DescripcionAnuncio = new TextBlock();
                 Border BorderCumDown = new Border();
-
-                //StackPanel Botones = new StackPanel();
-                //Border BorderBotonGuardar = new Border();
-                //Label LabelBotonGuardar = new Label();
                 
                 var bc = new BrushConverter();
                 BordeAnuncio.Background = (Brush)bc.ConvertFrom("#FF36281F");
@@ -61,9 +57,7 @@ namespace NoSeElNombrejaja
                 MiAnuncio.Children.Add(DescripcionAnuncio);
                 TituloAnuncio.Text = AnoDeRodrigo.Titulo;
                 DescripcionAnuncio.Text = AnoDeRodrigo.Cuerpo;
-                //Botones.Children.Add(BorderBotonGuardar);
-                //BorderBotonGuardar.Child = LabelBotonGuardar;
-                //MiAnuncio.Children.Add(Botones);
+
 
                 TituloAnuncio.FontFamily = new FontFamily("Cambria");
                 TituloAnuncio.Foreground = Brushes.AntiqueWhite;
@@ -83,22 +77,6 @@ namespace NoSeElNombrejaja
                 BorderCumDown.Background = (Brush)bc.ConvertFrom("#FF231F20");
                 BorderCumDown.Margin = new Thickness(20, 0, 20, 0);
 
-                //Botones.Orientation = Orientation.Horizontal;
-                //Botones.HorizontalAlignment = HorizontalAlignment.Right;
-
-                //BorderBotonGuardar.HorizontalAlignment = HorizontalAlignment.Center;
-                //BorderBotonGuardar.VerticalAlignment = VerticalAlignment.Center;
-                //BorderBotonGuardar.Background = (Brush)bc.ConvertFrom("#FF36281F");
-                //BorderBotonGuardar.BorderBrush = (Brush)bc.ConvertFrom("#FF231F20");
-                //BorderBotonGuardar.BorderThickness = new Thickness(3, 3, 3, 3); 
-                //BorderBotonGuardar.Margin = new Thickness(15, 15, 15, 15);
-                
-
-                //LabelBotonGuardar.FontFamily = new FontFamily("Cambria");
-                //LabelBotonGuardar.Foreground = Brushes.AntiqueWhite;
-                //LabelBotonGuardar.FontWeight = FontWeights.Bold;
-                //LabelBotonGuardar.FontSize = 15;
-                //LabelBotonGuardar.Content = "Guardar";
 
                 ListaAnunciosAdmin.Children.Add(BordeAnuncio);
                 ListaAnunciosAdmin.Children.Add(BorderCumDown);

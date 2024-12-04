@@ -141,3 +141,17 @@ C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombr
 C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\NoSeElNo.7E94135B.Up2Date
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\TareasAdmin.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\TareasAdmin.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\TareasUsuario.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\VentanaCrearTarea.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\VentanaDetallesTarea.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\TareasUsuario.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\VentanaCrearTarea.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\VentanaDetallesTarea.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\VentanaTrabajadores.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\VentanaTrabajadoresAdmin.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\VentanaTrabajadores.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\VentanaTrabajadoresAdmin.baml
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\agregarempleado.g.cs
+C:\Users\santi\OneDrive\Escritorio\visual studio 22\NoSeElNombrejaja\NoSeElNombrejaja\obj\Debug\agregarempleado.baml

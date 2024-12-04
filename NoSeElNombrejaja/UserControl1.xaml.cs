@@ -22,6 +22,8 @@ namespace NoSeElNombrejaja
     {
         public event Action CambioVentanaAnuncio;
         public event Action CambioVentanaResumen;
+        public event Action CambioVentanaTareas;
+        public event Action CambioVentanaTrabajadores;
         public UserControl1()
         {
             InitializeComponent();
@@ -29,7 +31,7 @@ namespace NoSeElNombrejaja
 
         private void ClickTareas(object sender, MouseButtonEventArgs e)
         {
-
+            CambioVentanaTareas?.Invoke();
         }
 
         private void ClickAnuncios(object sender, MouseButtonEventArgs e)
@@ -40,6 +42,11 @@ namespace NoSeElNombrejaja
         private void ClickResumen(object sender, MouseButtonEventArgs e)
         {
             CambioVentanaResumen?.Invoke();
+        }
+
+        private void ClickTrabajadores(object sender, MouseButtonEventArgs e)
+        {
+            CambioVentanaTrabajadores?.Invoke();
         }
     }
 }

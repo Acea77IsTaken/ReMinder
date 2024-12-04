@@ -18,11 +18,10 @@ using System.Timers;
 
 namespace NoSeElNombrejaja
 {
-    /// <summary>
-    /// Lógica de interacción para Menu_inicioUserControl.xaml
-    /// </summary>
+    
     public partial class Menu_inicioUserControl : UserControl
     {
+        BD bd = new BD();
         public event EventHandler Hola;
         public Menu_inicioUserControl()
         {
@@ -32,12 +31,13 @@ namespace NoSeElNombrejaja
 
         private void InicioSesionClick(object sender, MouseButtonEventArgs e)
         {
-            if (TBUsuario.Text == "a" && PBClave.Password == "a")
+            if (bd.AutenticacionUsuario(TBUsuario.Text,PBClave.Password))
             {
                 Globals.Logueado = true;
                 Hola?.Invoke(this, EventArgs.Empty);
                 
-            } else if (TBUsuario.Text =="Admin123" &&  PBClave.Password =="Clave123")
+                
+            } else if (bd.AutenticacionAdmin(TBUsuario.Text, PBClave.Password))
             {
                 Globals.Administrador = true;
                 Globals.Logueado = true;

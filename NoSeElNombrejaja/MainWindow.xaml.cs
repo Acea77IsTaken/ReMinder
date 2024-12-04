@@ -21,9 +21,14 @@ namespace NoSeElNombrejaja
     /// </summary>
     public partial class MainWindow : Window
     {
+        
         bool Administrador = false;
         InicioUserControl AnunciosUsuario = new InicioUserControl();
         TablonAnunciosAdmin TablonAnunciosAdmin = new TablonAnunciosAdmin(); 
+        TareasAdmin TareasAdmin = new TareasAdmin();
+        TareasUsuario tareasUsuario = new TareasUsuario();
+        VentanaTrabajadores trabajadores = new VentanaTrabajadores();
+        VentanaTrabajadoresAdmin trabajadoresAdmin = new VentanaTrabajadoresAdmin();
         
 
         public MainWindow()
@@ -43,13 +48,16 @@ namespace NoSeElNombrejaja
                 UserControl1 UsuarioInicio = new UserControl1();
                 AreaContenido.Content = UsuarioInicio;
                 UsuarioInicio.CambioVentanaAnuncio += CambioVentanaAnuncios;
-                UsuarioInicio.CambioVentanaResumen += CambioVentanaResumen;
+                UsuarioInicio.CambioVentanaTareas += CambioVentanaTareas;
+                UsuarioInicio.CambioVentanaTrabajadores += CambioVentanaTrabajadores;
             }
             else
             {
                 UserControl1 UsuarioInicio = new UserControl1();
                 AreaContenido.Content = UsuarioInicio;
                 UsuarioInicio.CambioVentanaAnuncio += CambioVentanaAnuncios;
+                UsuarioInicio.CambioVentanaTareas += CambioVentanaTareas;
+                UsuarioInicio.CambioVentanaTrabajadores += CambioVentanaTrabajadores;
             }
         }
 
@@ -64,15 +72,79 @@ namespace NoSeElNombrejaja
                 AreaContenido.Content = TablonAnunciosAdmin;
             }
         }
-        
-        public void CambioVentanaResumen()
-        {
-            
-        }
 
         private void BtnIcono(object sender, MouseButtonEventArgs e)
         {
-            AreaContenido.Content = new UserControl1();
+            UserControl1 UsuarioInicio = new UserControl1();
+            AreaContenido.Content = UsuarioInicio;
+            UsuarioInicio.CambioVentanaAnuncio += CambioVentanaAnuncios;
+            UsuarioInicio.CambioVentanaTareas += CambioVentanaTareas;
+
+        }
+
+        private void ClickBtnAnuncios(object sender, MouseButtonEventArgs e)
+        {
+            CambioVentanaAnuncios();
+        }
+
+        private void ClickBtnTareas(object sender, MouseButtonEventArgs e)
+        {
+            if (Globals.Logueado && !Globals.Administrador)
+            {
+                AreaContenido.Content = tareasUsuario;
+                
+            }
+            else if (Globals.Logueado && Globals.Administrador)
+            {
+                AreaContenido.Content = TareasAdmin;
+                ;
+            }
+        }
+
+        private void BtnSoporteClick(object sender, MouseButtonEventArgs e)
+        {
+            
+            if (Globals.Logueado && !Globals.Administrador)
+            {
+                System.Diagnostics.Process.Start("http://kathleen.free.nf/reminder/index.html?i=1");
+            }
+            else if (Globals.Logueado && Globals.Administrador)
+            {
+                System.Diagnostics.Process.Start("http://kathleen.free.nf/reminder/index.html?i=1");
+            }
+        }
+
+        public void CambioVentanaTareas()
+        {
+            if (Globals.Logueado && !Globals.Administrador)
+            {
+                AreaContenido.Content = tareasUsuario;
+                
+            }
+            else if (Globals.Logueado && Globals.Administrador)
+            {
+                AreaContenido.Content = TareasAdmin;
+                
+            }
+        }
+
+        public void CambioVentanaTrabajadores()
+        {
+            if (Globals.Logueado && !Globals.Administrador)
+            {
+                AreaContenido.Content = trabajadores;
+
+            }
+            else if (Globals.Logueado && Globals.Administrador)
+            {
+                AreaContenido.Content = trabajadoresAdmin;
+
+            }
+        }
+
+        private void BtnClickTrabajadores(object sender, MouseButtonEventArgs e)
+        {
+            CambioVentanaTrabajadores();
         }
     }
 }

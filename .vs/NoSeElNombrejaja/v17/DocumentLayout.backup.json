@@ -3,52 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\ventanacrearanuncio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\ventanatrabajadoresadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\ventanatrabajadoresadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\ventanatrabajadores.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\ventanatrabajadores.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\agregarempleado.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\agregarempleado.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\ventanacrearanuncio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\ventanacrearanuncio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\tablonanunciosadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\tablonanunciosadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\ventanatrabajadores.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\ventanatrabajadores.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\tablonanunciosadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\tablonanunciosadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\agregarempleado.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\agregarempleado.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\menu iniciousercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\menu iniciousercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\ventanatrabajadoresadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\ventanatrabajadoresadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\menu iniciousercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\menu iniciousercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\tareasadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\tareasadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\ventanacrearanuncio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\ventanacrearanuncio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\iniciousercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\iniciousercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\ventanacreartarea.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\ventanacreartarea.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\admininiciousercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\admininiciousercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\ventanacreartarea.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\ventanacreartarea.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\iniciousercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\iniciousercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\tareasusuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\tareasusuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\tareasusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\tareasusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\ventanadetallestarea.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\ventanadetallestarea.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\tareaclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\tareaclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\ventanadetallestarea.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\ventanadetallestarea.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\anuncio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\anuncio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\menu iniciousercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\menu iniciousercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\menu iniciousercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\menu iniciousercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\tablonanunciosadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\tablonanunciosadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\ventanacrearanuncio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\ventanacrearanuncio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\usuarioclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\usuarioclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|c:\\users\\santi\\onedrive\\escritorio\\visual studio 22\\noseelnombrejaja\\noseelnombrejaja\\tareasadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\tareasadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\juan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\juan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\noseelnombrejaja\\tablonanunciosadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B6F1350-ABFE-49B8-BCE9-3EC03F008CC6}|NoSeElNombrejaja\\NoSeElNombrejaja.csproj|solutionrelative:noseelnombrejaja\\tablonanunciosadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,155 +130,404 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TablonAnunciosAdmin.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TablonAnunciosAdmin.xaml.cs",
-              "RelativeDocumentMoniker": "NoSeElNombrejaja\\TablonAnunciosAdmin.xaml.cs",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TablonAnunciosAdmin.xaml.cs",
-              "RelativeToolTip": "NoSeElNombrejaja\\TablonAnunciosAdmin.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAuwGQAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "agregarempleado.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\agregarempleado.xaml.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\agregarempleado.xaml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\agregarempleado.xaml.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\agregarempleado.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T01:49:52.774Z",
+              "WhenOpened": "2024-12-04T09:09:14.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "agregarempleado.xaml",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\agregarempleado.xaml",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\agregarempleado.xaml",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\agregarempleado.xaml",
+              "RelativeToolTip": "NoSeElNombrejaja\\agregarempleado.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T08:53:51.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentanaTrabajadores.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaTrabajadores.xaml.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\VentanaTrabajadores.xaml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaTrabajadores.xaml.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\VentanaTrabajadores.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:00:40.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentanaTrabajadores.xaml",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaTrabajadores.xaml",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\VentanaTrabajadores.xaml",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaTrabajadores.xaml",
+              "RelativeToolTip": "NoSeElNombrejaja\\VentanaTrabajadores.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T00:40:18.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VentanaCrearAnuncio.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaCrearAnuncio.xaml.cs",
-              "RelativeDocumentMoniker": "NoSeElNombrejaja\\VentanaCrearAnuncio.xaml.cs",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaCrearAnuncio.xaml.cs",
-              "RelativeToolTip": "NoSeElNombrejaja\\VentanaCrearAnuncio.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAhAAAAAAAAAA==",
+              "Title": "VentanaTrabajadoresAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaTrabajadoresAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\VentanaTrabajadoresAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaTrabajadoresAdmin.xaml.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\VentanaTrabajadoresAdmin.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T01:49:41.383Z",
+              "WhenOpened": "2024-12-04T08:00:38.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Menu inicioUserControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\Menu inicioUserControl.xaml.cs",
-              "RelativeDocumentMoniker": "NoSeElNombrejaja\\Menu inicioUserControl.xaml.cs",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\Menu inicioUserControl.xaml.cs",
-              "RelativeToolTip": "NoSeElNombrejaja\\Menu inicioUserControl.xaml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T01:41:56.833Z",
+              "DocumentIndex": 7,
+              "Title": "VentanaTrabajadoresAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaTrabajadoresAdmin.xaml",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\VentanaTrabajadoresAdmin.xaml",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaTrabajadoresAdmin.xaml",
+              "RelativeToolTip": "NoSeElNombrejaja\\VentanaTrabajadoresAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T00:45:49.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserControl1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\UserControl1.xaml.cs",
-              "RelativeDocumentMoniker": "NoSeElNombrejaja\\UserControl1.xaml.cs",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\UserControl1.xaml.cs",
-              "RelativeToolTip": "NoSeElNombrejaja\\UserControl1.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T00:57:04.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "UserControl1.xaml",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\UserControl1.xaml",
               "RelativeDocumentMoniker": "NoSeElNombrejaja\\UserControl1.xaml",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\UserControl1.xaml",
               "RelativeToolTip": "NoSeElNombrejaja\\UserControl1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-02T00:55:02.671Z",
+              "WhenOpened": "2024-12-04T04:44:37.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdminInicioUserControl1.xaml",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\AdminInicioUserControl1.xaml",
-              "RelativeDocumentMoniker": "NoSeElNombrejaja\\AdminInicioUserControl1.xaml",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\AdminInicioUserControl1.xaml",
-              "RelativeToolTip": "NoSeElNombrejaja\\AdminInicioUserControl1.xaml",
+              "DocumentIndex": 15,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\UserControl1.xaml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\UserControl1.xaml.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\UserControl1.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawDAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:44:35.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TareasUsuario.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TareasUsuario.xaml.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\TareasUsuario.xaml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TareasUsuario.xaml.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\TareasUsuario.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:05:47.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VentanaDetallesTarea.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaDetallesTarea.xaml.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\VentanaDetallesTarea.xaml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaDetallesTarea.xaml.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\VentanaDetallesTarea.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:11:26.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VentanaDetallesTarea.xaml",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaDetallesTarea.xaml",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\VentanaDetallesTarea.xaml",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaDetallesTarea.xaml",
+              "RelativeToolTip": "NoSeElNombrejaja\\VentanaDetallesTarea.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-02T00:54:57.858Z",
+              "WhenOpened": "2024-12-03T18:14:20.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "TareasAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TareasAdmin.xaml",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\TareasAdmin.xaml",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TareasAdmin.xaml",
+              "RelativeToolTip": "NoSeElNombrejaja\\TareasAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T18:53:43.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TareasAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TareasAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\TareasAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TareasAdmin.xaml.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\TareasAdmin.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwv1QAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:23:25.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VentanaCrearTarea.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaCrearTarea.xaml.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\VentanaCrearTarea.xaml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaCrearTarea.xaml.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\VentanaCrearTarea.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:07:33.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VentanaCrearTarea.xaml",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaCrearTarea.xaml",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\VentanaCrearTarea.xaml",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaCrearTarea.xaml",
+              "RelativeToolTip": "NoSeElNombrejaja\\VentanaCrearTarea.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T18:13:49.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "NoSeElNombrejaja\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\MainWindow.xaml.cs",
               "RelativeToolTip": "NoSeElNombrejaja\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCsAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB4AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T00:54:11.557Z",
+              "WhenOpened": "2024-12-03T16:25:47.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\MainWindow.xaml",
               "RelativeDocumentMoniker": "NoSeElNombrejaja\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\MainWindow.xaml",
               "RelativeToolTip": "NoSeElNombrejaja\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-02T00:40:45.008Z",
+              "WhenOpened": "2024-12-02T19:06:19.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 28,
+              "Title": "Juan.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\Juan.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\Juan.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\Juan.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\Juan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:17:58.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Menu inicioUserControl.xaml",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\Menu inicioUserControl.xaml",
               "RelativeDocumentMoniker": "NoSeElNombrejaja\\Menu inicioUserControl.xaml",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\Menu inicioUserControl.xaml",
               "RelativeToolTip": "NoSeElNombrejaja\\Menu inicioUserControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T23:07:47.715Z",
+              "WhenOpened": "2024-12-02T21:52:25.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VentanaCrearAnuncio.xaml",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaCrearAnuncio.xaml",
-              "RelativeDocumentMoniker": "NoSeElNombrejaja\\VentanaCrearAnuncio.xaml",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaCrearAnuncio.xaml",
-              "RelativeToolTip": "NoSeElNombrejaja\\VentanaCrearAnuncio.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T23:07:40.336Z",
+              "DocumentIndex": 22,
+              "Title": "Menu inicioUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\Menu inicioUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\Menu inicioUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\Menu inicioUserControl.xaml.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\Menu inicioUserControl.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:52:28.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "InicioUserControl.xaml",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\InicioUserControl.xaml",
               "RelativeDocumentMoniker": "NoSeElNombrejaja\\InicioUserControl.xaml",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\InicioUserControl.xaml",
               "RelativeToolTip": "NoSeElNombrejaja\\InicioUserControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T21:53:36.618Z",
+              "WhenOpened": "2024-12-02T19:06:17.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 29,
               "Title": "TablonAnunciosAdmin.xaml",
               "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TablonAnunciosAdmin.xaml",
               "RelativeDocumentMoniker": "NoSeElNombrejaja\\TablonAnunciosAdmin.xaml",
               "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TablonAnunciosAdmin.xaml",
               "RelativeToolTip": "NoSeElNombrejaja\\TablonAnunciosAdmin.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T21:53:56.577Z",
+              "WhenOpened": "2024-12-02T18:54:11.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TablonAnunciosAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TablonAnunciosAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\TablonAnunciosAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TablonAnunciosAdmin.xaml.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\TablonAnunciosAdmin.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:15:11.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UsuarioClase.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\UsuarioClase.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\UsuarioClase.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\UsuarioClase.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\UsuarioClase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:16:09.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentanaCrearAnuncio.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaCrearAnuncio.xaml.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\VentanaCrearAnuncio.xaml.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaCrearAnuncio.xaml.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\VentanaCrearAnuncio.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:15:04.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VentanaCrearAnuncio.xaml",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaCrearAnuncio.xaml",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\VentanaCrearAnuncio.xaml",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\VentanaCrearAnuncio.xaml",
+              "RelativeToolTip": "NoSeElNombrejaja\\VentanaCrearAnuncio.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T16:15:00.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TareaClase.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TareaClase.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\TareaClase.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TareaClase.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\TareaClase.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:12:33.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BD.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\BD.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\BD.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\BD.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\BD.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAAAPwAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:12:31.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Anuncio.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\Anuncio.cs",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\Anuncio.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\Anuncio.cs",
+              "RelativeToolTip": "NoSeElNombrejaja\\Anuncio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:12:27.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "f6caf638-176f-44de-bdbd-52bbf70d7393",
+        "Display": 1,
+        "X": 635,
+        "Y": 142,
+        "Width": 1582,
+        "Height": 748,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TareasUsuario.xaml",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TareasUsuario.xaml",
+              "RelativeDocumentMoniker": "NoSeElNombrejaja\\TareasUsuario.xaml",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\visual studio 22\\NoSeElNombrejaja\\NoSeElNombrejaja\\TareasUsuario.xaml",
+              "RelativeToolTip": "NoSeElNombrejaja\\TareasUsuario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T18:15:17.835Z",
               "EditorCaption": ""
             }
           ]

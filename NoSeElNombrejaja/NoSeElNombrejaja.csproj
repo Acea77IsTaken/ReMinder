@@ -168,12 +168,21 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="agregarempleado.xaml.cs">
+      <DependentUpon>agregarempleado.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Anuncio.cs" />
     <Compile Include="BD.cs" />
     <Compile Include="TablonAnunciosAdmin.xaml.cs">
       <DependentUpon>TablonAnunciosAdmin.xaml</DependentUpon>
     </Compile>
     <Compile Include="TareaClase.cs" />
+    <Compile Include="TareasAdmin.xaml.cs">
+      <DependentUpon>TareasAdmin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TareasUsuario.xaml.cs">
+      <DependentUpon>TareasUsuario.xaml</DependentUpon>
+    </Compile>
     <Compile Include="UserControl1.xaml.cs">
       <DependentUpon>UserControl1.xaml</DependentUpon>
     </Compile>
@@ -181,7 +190,23 @@
     <Compile Include="VentanaCrearAnuncio.xaml.cs">
       <DependentUpon>VentanaCrearAnuncio.xaml</DependentUpon>
     </Compile>
+    <Compile Include="VentanaCrearTarea.xaml.cs">
+      <DependentUpon>VentanaCrearTarea.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaDetallesTarea.xaml.cs">
+      <DependentUpon>VentanaDetallesTarea.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaTrabajadores.xaml.cs">
+      <DependentUpon>VentanaTrabajadores.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaTrabajadoresAdmin.xaml.cs">
+      <DependentUpon>VentanaTrabajadoresAdmin.xaml</DependentUpon>
+    </Compile>
     <Page Include="AdminInicioUserControl1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="agregarempleado.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -216,11 +241,35 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="TareasAdmin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TareasUsuario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="UserControl1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="VentanaCrearAnuncio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VentanaCrearTarea.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VentanaDetallesTarea.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VentanaTrabajadores.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VentanaTrabajadoresAdmin.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -262,7 +311,9 @@
     <Resource Include="site_bg.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Tareas.png" />
+    <Resource Include="Tareas.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Anuncios.png" />
